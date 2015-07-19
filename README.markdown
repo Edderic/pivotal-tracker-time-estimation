@@ -26,17 +26,8 @@ For more information, see my following [article](http://edderic.github.io/2015/0
 - play around with the `prob_get_done` function (there's examples at the very bottom
 of the iPython notebook).
 
-<figure>
-   <img src="/images/1-point-conv-wself-4-prob-under-hrs-8.png" alt="Probability of getting Five 1-Pointers done in Eight Working Hours">
-<figcaption>Probability of getting Five 1-Pointers done in Eight Working Hours
-</figcaption>
-</figure>
+   <img src="http://edderic.github.io/images/1-point-conv-wself-4-prob-under-hrs-8.png" alt="Probability of getting Five 1-Pointers done in Eight Working Hours">
 
-
-<figure>
-   <img src="/images/2-point-conv-wself-1-prob-under-hrs-8.png" alt="Probability of getting Two 2-Pointers done in Eight Working Hours">
-<figcaption>Probability of getting Two 2-Pointers done in Eight Working Hours
-</figcaption>
-</figure>
+   <img src="http://edderic.github.io/images/2-point-conv-wself-1-prob-under-hrs-8.png" alt="Probability of getting Two 2-Pointers done in Eight Working Hours">
 
 
